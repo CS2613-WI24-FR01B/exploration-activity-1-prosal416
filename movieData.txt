@@ -1,0 +1,40 @@
+Name;Director;Lead Actor;Year;Letterboxd Rating;Genre
+Following;Christopher Nolan;Jeremy Theobald;1998;3.5;Indie
+Memento;Christopher Nolan;Guy Pearce;2000;4.2;Mystery
+Insomnia;Christopher Nolan;Al Pacino;2002;3.5;[Crime,Thriller]
+Batman Begins;Christopher Nolan;Christian Bale;2005;3.8;Action
+The Prestige;Christopher Nolan;[Hugh Jackman,Christian Bale];2006;4.2;Mystery
+The Dark Knight;Christopher Nolan;Christian Bale;2008;4.4;Action
+Inception;Christopher Nolan;Leonardo DiCaprio;2010;4.2;Action
+The Dark Knight Rises;Christopher Nolan;Christian Bale;2012;3.7;Action
+Interstellar;Christopher Nolan;Matthew McConaughey;2014;4.3;Sci-Fi
+Dunkirk;Christopher Nolan;Fionn Whitehead;2017;3.8;War
+Tenet;Christopher Nolan;John David Washington;2020;3.4;[Action,Sci-Fi]
+Oppenheimer;Christopher Nolan;Cillian Murphy;2023;4.3;[War,Drama]
+Polytechnique;Denis Villeneuve;Maxim Gaudette;2009;3.7;Drama
+Incendies;Denis Villeneuve;Lubna Azabal;2010;4.4;Drama
+Prisoners;Denis Villeneuve;[Jack Gyllenhaal,Hugh Jackman];2013;4.3;Thriller
+Enemy;Denis Villeneuve;Jake Gyllenhaal;2013;3.6;Thriller
+Sicario;Denis Villeneuve;Emily Blunt;2015;4.0;[Thriller,Action,Crime]
+Arrival;Denis Villeneuve;Amy Adams;2016;4.1;Sci-Fi
+Blade Runner 2049;Denis Villeneuve;Ryan Gosling;2017;4.1;Sci-Fi
+Dune;Denis Villeneuve;Timothee Chalamet;2021;3.9;Sci-Fi
+Guy and Madeline on a Park Bench;Damien Chazelle;Jason Palmer;2009;3.1;[Drama,Musical]
+Whiplash;Damien Chazelle;Miles Teller;2014;4.4;[Drama,Musical]
+La La Land;Damien Chazelle;[Ryan Gosling, Emma Stone];2016;4.1;[Drama,Musical]
+First Man;Damien Chazelle;Ryan Gosling;2018;3.7;Sci-Fi
+Babylon;Damien Chazelle;Diego Calva;2022;3.8;[Drama,Comedy]
+Nights and Weekends;Greta Gerwig;Greta Gerwig;2008;3.1;[Drama,Romance]
+Lady Bird;Greta Gerwig;Saoirse Ronan;2017;3.9;[Drama,Comedy]
+Little Women;Greta Gerwig;Saoirse Ronan;2019;4.1;[Romance,Drama]
+Barbie;Greta Gerwig;Margot Robbie;2023;3.9;[Comedy,Fantasy]
+The Iron Claw;Sean Durkin;Zac Efron;2023;4.1;Drama
+Poor Things;Yorgos Lanthimos;Emma Stone;2023;4.2;[Romance,Sci-Fi,Comedy]
+The Holdovers;Alexander Payne;Paul Giamatti;2023;4.2;[Comedy,Drama]
+Killers of the Flower Moon;Martin Scorsese;Leonardo DiCaprio;2023;4.1;[History,Crime,Drama]
+John Wick: Chapter 4;Chad Stahelski;Keanu Reeves;2023;3.9;Action
+Air;Ben Affleck;Matt Damon;2023;3.6;[Comedy,Drama]
+Beau Is Afriad;Ari Aster;Joaquin Phoenix;2023;3.5;[Fantasy,Comedy,Adventure]
+Priscilla;Sofia Coppola;Cailee Spaeny;2023;3.6;[Romance,Drama]
+Bottoms;Emma Seligman;[Rachel Sennott,Ayo Edebiri];2023;3.9;Comedy
+Mission: Impossible - Dead Reckoning;Christopher McQuarrie;Tom Cruise;2023;3.8;Action
