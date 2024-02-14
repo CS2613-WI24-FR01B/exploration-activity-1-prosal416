@@ -28,6 +28,7 @@ Nights and Weekends;Greta Gerwig;Greta Gerwig;2008;3.1;[Drama,Romance]
 Lady Bird;Greta Gerwig;Saoirse Ronan;2017;3.9;[Drama,Comedy]
 Little Women;Greta Gerwig;Saoirse Ronan;2019;4.1;[Romance,Drama]
 Barbie;Greta Gerwig;Margot Robbie;2023;3.9;[Comedy,Fantasy]
+Past Lives; Celine Song; Greta Lee;2023;4.2;[Romance,Drama]
 The Iron Claw;Sean Durkin;Zac Efron;2023;4.1;Drama
 Poor Things;Yorgos Lanthimos;Emma Stone;2023;4.2;[Romance,Sci-Fi,Comedy]
 The Holdovers;Alexander Payne;Paul Giamatti;2023;4.2;[Comedy,Drama]
@@ -38,3 +39,7 @@ Beau Is Afriad;Ari Aster;Joaquin Phoenix;2023;3.5;[Fantasy,Comedy,Adventure]
 Priscilla;Sofia Coppola;Cailee Spaeny;2023;3.6;[Romance,Drama]
 Bottoms;Emma Seligman;[Rachel Sennott,Ayo Edebiri];2023;3.9;Comedy
 Mission: Impossible - Dead Reckoning;Christopher McQuarrie;Tom Cruise;2023;3.8;Action
+Wonka;Paul King;Timothee Chalamet;2023;3.4;[Comedy,Fantasy]
+Anatomy of a Fall;Justine Triet;Sandra Huller;2023;4.2;[Mystery,Crime]
+Saltburn;Emerald Fennell;Barry Keoghan;2023;3.5;[Comedy,Drama,Thriller]
+Fast X;Louis Leterrier;Vin Diesel;2023;2.5;Action
