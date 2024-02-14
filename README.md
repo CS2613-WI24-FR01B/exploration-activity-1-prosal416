@@ -9,4 +9,11 @@ It prompts the user to select a myriad of different options to print a list of m
 
 ![alt text](image.png)
 
-One of them being a option to recommend the user a list of movies based on a given genre and rating. Which would be the main purpose for the program
+One of them being a option to recommend the user a list of movies based on a given genre and rating. Which would be the main purpose for the program.
+
+All the inputs for each question can only take one argument.
+
+Here is an example of the program running:
+![alt text](image-1.png)
+
+The program continues to loop and ask questions until an option is entered that doesn't show in the list.
